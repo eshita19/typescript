@@ -1,6 +1,6 @@
 //Core types in typescript
 
-const add: (a:number, number) => number = (a: number, b: number) : number => a+b;
+const add: (a:number, b:number) => number = (a: number, b: number) : number => a+b;
 console.log("Addition of two numbers: " + add(1,1));
 
 const printFunc = ():void => console.log("Prinitng function");
