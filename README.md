@@ -6,3 +6,4 @@
     - tsc --init: Creates a tsconfig.json file. If the file exists in the root folder of project, no need to compile single file.
     - tsc --watch : Watches all files project, provided tsconfig file exists.
 - **Classes and Interfaces**
+  - https://github.com/eshita19/typescript/blob/main/test-classes.ts
