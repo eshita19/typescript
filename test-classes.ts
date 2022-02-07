@@ -32,7 +32,7 @@ abstract class Department{
 
 //Inheritance
 class ITDepartment extends Department{
-    public staffNos:number;
+    public staffNos?:number; //optional field
     constructor(name:string){
         super(name);
         this.staffNos = 10;
